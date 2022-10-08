@@ -1,0 +1,10 @@
+Q1. Find the Longest movie name
+Q2. Find the movies with 10 stars rating
+Q3. How many industries are there?
+Q4. Find the least liked comedy movie name?
+Q5. Longest English movie?
+Q6. What is Genre of Intesteller movie?
+Q7. What is the average duration of each genre?
+Q8. What is the average rating of each industry?
+Q9. Average rating of romantic movies industry wise
+Q10. List down all the english movies with thier respective ratings in decending order?
